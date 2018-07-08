@@ -26,5 +26,11 @@
             <groupId>io.swagger</groupId>
             <artifactId>swagger-annotations</artifactId>
         </dependency>
+
+        <!--微信支付sdk-->
+        <dependency>
+            <groupId>cn.springboot</groupId>
+            <artifactId>best-pay-sdk</artifactId>
+        </dependency>
     </dependencies>
 </project>

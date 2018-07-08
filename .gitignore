@@ -1,3 +1,9 @@
 **/.idea/
-**/**/target/
 **/target/
+membership-manage/membership-manage.iml
+membership-manage/membership-manage-model/membership-manage-model.iml
+flyingupword-parent/flyingupword-parent.iml
+membership-manage/membership-manage-service/membership-manage-service.iml
+flyingupword-common/flyingupword-common.iml
+membership-manage/membership-manage-mapper/membership-manage-mapper.iml
+membership-manage/membership-manage-web/membership-manage-web.iml
